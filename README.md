@@ -4,6 +4,6 @@ Here are some ideas to get you started:
 
 -  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
 -  💻I’m currently learning React.Js
-- 
+-  ✏️To study hard for get a job.
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong)](https://github.com/anuraghazra/github-readme-stats)
