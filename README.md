@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
--  🏫I am belong to Gwangju-SoftWare-Meister HighSchool
--  📘I’m currently learning React
+-  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
+-  💻I’m currently learning React.Js
 - 
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong)](https://github.com/anuraghazra/github-readme-stats)
