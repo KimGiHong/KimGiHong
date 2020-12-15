@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 -  ✏️To study hard for get a job.
 -  How to Contact -> 
 [![Facebook Badge](http://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009804859225)](https://www.facebook.com/profile.php?id=100009804859225)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/)
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
