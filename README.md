@@ -1,8 +1,5 @@
 ### <h1>📚Junior Front-End Developer!📚  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-</style>
 
 Here are some ideas to get you started:
 
@@ -19,6 +16,5 @@ Here are some ideas to get you started:
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
 </div>
 
-<span style="font family: 'Dancing Script', cursive;>NOTE: I'm not good at javascript!</span>
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
