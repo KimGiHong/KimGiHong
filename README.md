@@ -15,7 +15,7 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
 </div>
 
-_NOTE: I'm not good at JS ^^;_
+   _NOTE: I'm not good at JS ^^;_
 
 ---
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
