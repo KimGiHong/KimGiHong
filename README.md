@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 -  💻I’m currently learning React.Js
 -  ✏️To study hard for get a job.
 
-[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
+[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=merko)](https://github.com/KimGiHong/github-readme-stats)
