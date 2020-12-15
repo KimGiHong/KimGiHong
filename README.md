@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 [![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) Direct Message
 
 <strong>Languages and Tools:</strong>
-
+![javascript](https://user-images.githubusercontent.com/68697807/102154381-9c2e8400-3ebc-11eb-9f13-2bac97c9a960.png)
+![typescript](https://user-images.githubusercontent.com/68697807/102154393-a0f33800-3ebc-11eb-979b-60c8e60d87e9.png)
+![react](https://user-images.githubusercontent.com/68697807/102154394-a2bcfb80-3ebc-11eb-903c-e9b54a5107d5.png)
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
