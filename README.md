@@ -1,6 +1,7 @@
 ### <h1>📚Junior Front-End Developer!📚  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
 
-
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 Here are some ideas to get you started:
 
 -  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
@@ -19,6 +20,3 @@ Here are some ideas to get you started:
 <span style="font-family: 'Dancing Script', cursive;">NOTE: I'm not good at JS ^^;</span>
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-</style>
