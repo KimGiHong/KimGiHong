@@ -1,4 +1,4 @@
-### <h1>📚Junior Front-End Developer!📚  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
+### <h1>📚Junior Front-End Web Developer!📚  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
 
 
 Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
@@ -16,6 +16,6 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
 </div>
 
-<span style="font-family: 'Dancing Script', cursive;">NOTE: I'm not good at JS ^^;</span>
+   <span style="font-family: 'Dancing Script', cursive;">NOTE: I'm not good at JS ^^;</span>
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
