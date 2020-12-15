@@ -7,14 +7,14 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
 -  ✏️To study hard for get a job.
 -  ❓ How to Contact -> [![Facebook Badge](http://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009804859225)](https://www.facebook.com/profile.php?id=100009804859225) and 
 [![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) Direct Message
-
+```css
 <strong>Languages and Tools:</strong>
 <div>
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154544-f891a380-3ebc-11eb-8770-b9f2f0c01bb7.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154552-fb8c9400-3ebc-11eb-80c3-5aacd02b5888.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
 </div>
-
+```
    <span style="font-family: 'Dancing Script', cursive;">NOTE: I'm not good at JS ^^;</span>
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
