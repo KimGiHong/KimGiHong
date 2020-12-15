@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <span style="font-family: 'Dancing Script', cursive;">NOTE: I'm not good at JS ^^;</span>
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+</style>
