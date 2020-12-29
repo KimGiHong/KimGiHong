@@ -10,6 +10,7 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
 
 <strong>Languages and Tools:</strong>
 <div>
+  <img width="25" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw3OIt_cxOO9tqRvo4-8-fIb&ust=1609324173555000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCGz-_98u0CFQAAAAAdAAAAABAD style=flat-square>
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154544-f891a380-3ebc-11eb-8770-b9f2f0c01bb7.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154552-fb8c9400-3ebc-11eb-80c3-5aacd02b5888.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
