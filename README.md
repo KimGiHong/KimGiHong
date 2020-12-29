@@ -10,8 +10,8 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
 
 <strong>Languages and Tools:</strong>
 <div>
-  <img width="25" src=https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg style=flat-square>
-  <img width="25" src=file:///Users/gimgihong/Downloads/css.png style=flat-square>
+  <img width="25" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png style=flat-square>
+  <img width="25" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png style=flat-square>
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154544-f891a380-3ebc-11eb-8770-b9f2f0c01bb7.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154552-fb8c9400-3ebc-11eb-80c3-5aacd02b5888.png style=flat-square> 
   <img width="25" src=https://user-images.githubusercontent.com/68697807/102154559-fd565780-3ebc-11eb-9a1c-e9be5b0606ab.png style=flat-square>
