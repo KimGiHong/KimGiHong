@@ -6,7 +6,7 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
 -  💻I’m currently learning React.Js
 -  ✏️To study hard for get a job.
 -  ❓ How to Contact -> [![Facebook Badge](http://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009804859225)](https://www.facebook.com/profile.php?id=100009804859225) and 
-[![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) Direct Message
+[![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) Direct Message and Email -> kimgihong9@naver.com
 
 <strong>Languages and Tools:</strong>
 <div>
