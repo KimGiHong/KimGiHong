@@ -16,7 +16,7 @@
       <li>SASS</li>
     </strong>
   </ul>
-<strong>📕 I'm Studying now</strong>
+<strong>📕 I'm Studying now</strong>  
   <ul>
     <strong>
       <li>React.js</li>
