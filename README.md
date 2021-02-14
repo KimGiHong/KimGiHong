@@ -19,5 +19,5 @@ Hi, I'm GiHong, a passionate Junior Front-End web developer from South Korea
 </div>   
 
 ---
-[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats){: width="300" height="100"}
+[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiHong&hide=html,python)](https://github.com/KimGiHong/github-readme-stats)
