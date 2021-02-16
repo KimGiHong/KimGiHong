@@ -1,4 +1,5 @@
 ### <h1>🖥️I'm Junior Front-End Web Developer!🖥️  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
+<strong>👋 Introduce</strong>
 
 -  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
 -  💻I’m currently learning React.Js
@@ -17,6 +18,7 @@
       <li>SASS</li>
     </strong>
   </ul>
+  
 <strong>📕 I'm Studying now</strong>
   <ul>
     <strong>
