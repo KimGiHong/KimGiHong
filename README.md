@@ -3,9 +3,7 @@
 
 -  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
 -  ✏️To study hard for get a job.
--  ❓ How to Contact -> [![Facebook Badge](http://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009804859225)](https://www.facebook.com/profile.php?id=100009804859225) and 
-[![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) Direct Message
--  ✉️ You can also contact me this way -> kimgihong9@naver.com
+-  ❓ How to Contact -> [![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) or kimgihong9@naver.com
 
 <strong>🛠 My Stack </strong>
   <ul>
