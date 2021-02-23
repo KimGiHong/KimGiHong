@@ -12,7 +12,7 @@
       <li>HTMl, CSS</li>
       <li>JavaScript</li>
       <li>React.js</li>
-      <li>SASS</li>
+      <li>SASS(SCSS)</li>
     </strong>
   </ul>
 
@@ -21,6 +21,7 @@
     <strong>
       <li>React.js</li>
       <li>TypeScript</li>
+      <li>SASS(SCSS)</li>
     </strong>
   </ul>
   
