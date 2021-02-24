@@ -2,7 +2,7 @@
 <strong>👋 Introduce</strong>
 
 -  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
--  ✏️To study hard for get a job.
+-  ✏️To study hard for get a job
 -  ❓ How to Contact -> [![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) or kimgihong9@naver.com
 
 <strong>🛠 My Stack </strong>
