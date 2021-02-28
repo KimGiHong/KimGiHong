@@ -1,8 +1,8 @@
 ### <h1>Hi, there👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiHong&count_bg=%23000000&title_bg=%23000000&icon=react.svg&icon_color=%236AEAFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</h1>
 <strong>😄 Introduce</strong>
 
--  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool.
--  ✏️To study hard for get a job.
+-  🏫I'm belong to Gwangju-SoftWare-Meister HighSchool
+-  ✏️To study hard for get a job
 -  ❓ How to Contact -> [![Instagram Badge](http://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/04_hong_/)](https://www.instagram.com/04_hong_/) or kimgihong9@naver.com
 
 <strong>🛠 My Stack </strong>
