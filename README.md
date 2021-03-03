@@ -9,7 +9,7 @@
   <ul>
     <strong>
       <li>C, Java</li>
-      <li>HTMl, CSS</li>
+      <li>HTML, CSS</li>
       <li>JavaScript</li>
       <li>React.js</li>
       <li>SASS(SCSS)</li>
