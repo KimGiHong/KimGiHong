@@ -28,5 +28,5 @@
   
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=tokyonight)](https://github.com/KimGiHong/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiHong&hide=html&langs_count=10)](https://github.com/KimGiHong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiHong&hide=html&langs_count=10&layout=compact)](https://github.com/KimGiHong/github-readme-stats)
 
