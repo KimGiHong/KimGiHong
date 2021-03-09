@@ -27,6 +27,6 @@
   </ul>
   
 
-[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=graywhite)](https://github.com/KimGiHong/github-readme-stats) 
+[![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=buefy)](https://github.com/KimGiHong/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiHong&hide=html&langs_count=10&layout=compact)](https://github.com/KimGiHong/github-readme-stats)
 
