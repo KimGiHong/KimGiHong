@@ -4,24 +4,17 @@
 
 
 <strong>🛠 My Stack </strong>
-  <ul>
-    <strong>
-      <li>C, Java</li>
-      <li>HTML, CSS</li>
-      <li>JavaScript</li>
-      <li>React.js</li>
-      <li>SASS(SCSS)</li>
-    </strong>
-  </ul>
+* C, Java
+* HTML, CSS
+* JavaScript
+* React.js
+    * Sass(Scss)
+    * Styled Components
+* TypeScript
 
 <strong>📕 I'm Studying now</strong>  
-  <ul>
-    <strong>
-      <li>React.js</li>
-      <li>TypeScript</li>
-      <li>SASS(SCSS)</li>
-    </strong>
-  </ul>
+* React.js
+* TypeScript
   
 
 [![KimGiHong's github stats](https://github-readme-stats.vercel.app/api?username=KimGiHong&show_icons=true&theme=buefy)](https://github.com/KimGiHong/github-readme-stats) 
