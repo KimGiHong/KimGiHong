@@ -7,10 +7,11 @@
 * C, Java
 * HTML, CSS
 * JavaScript
+* TypeScript
 * React.js
     * Sass(Scss)
     * Styled Components
-* TypeScript
+
 
 <strong>📕 I'm Studying now</strong>  
 * React.js
