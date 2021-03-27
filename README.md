@@ -4,7 +4,6 @@
 
 
 <strong>🛠 My Stack </strong>
-* C, Java
 * HTML, CSS
 * JavaScript
 * TypeScript
