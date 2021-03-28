@@ -12,7 +12,7 @@
     * Styled Components
 
 
-<strong>📕 I'm Studying now</strong>  
+<strong>📕 Studying now</strong>  
 * React.js
 * TypeScript
   
