@@ -6,7 +6,6 @@
 <strong>🛠 My Stack </strong>
 * HTML, CSS
 * JavaScript
-* TypeScript
 * React.js
     * Sass(Scss)
     * Styled Components
