@@ -13,6 +13,7 @@
 
 <strong>📕 Studying now</strong>  
 * React.js
+* Vue.js
 * TypeScript
   
 
