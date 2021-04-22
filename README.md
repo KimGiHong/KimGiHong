@@ -1,4 +1,4 @@
- ### My stack and Studying
+ ### FE Engineer
  > **Languages**: Javascript,Typescript  
  > **Frameworks**: React, Vue  
  > **Style**: Sass,Styled-components
