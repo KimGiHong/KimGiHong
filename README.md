@@ -1,4 +1,4 @@
-### 💫 FE Engineer
+### 💫 Front-End Engineer
 
 | 이름 | 김기홍 |  
 |---|:---:|  
