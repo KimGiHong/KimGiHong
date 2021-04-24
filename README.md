@@ -3,6 +3,6 @@
 | 이름 | 김기홍 |  
 |---|:---:|  
 | **Language**  | `Javascript`,`Typescript` ..etc |  
-| **Frameworks**  | `React` |  
+| **Frameworks**  | `React` `Vue` ..etc |  
 | **Style** | `Sass`, `Styled-components` ..etc |  
 | **Design** | `Figma`, `Adobe Photoshop` ..etc |  
