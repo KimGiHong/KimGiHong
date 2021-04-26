@@ -4,5 +4,5 @@
 |---|:---:|  
 | **Language**  | `Javascript`,`Typescript` ..etc |  
 | **Frameworks**  | `React` `Vue` ..etc |  
-| **Style** | `Sass`, `Styled-components` ..etc |  
+| **Style** | `Scss`, `Styled-components` ..etc |  
 | **Design** | `Figma`, `Adobe Photoshop` ..etc |  
