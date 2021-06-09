@@ -5,4 +5,4 @@
 | **Language**  | `JavaScript`,`TypeScript` ..etc |  
 | **Frameworks**  | `React` `Vue` ..etc |  
 | **Style** | `Scss`, `Styled-components` ..etc |  
-| **Design** | `Figma`, `Adobe Photoshop` ..etc |  
+| **Contact** | [Instagram](https://www.instagram.com/gi._.hong_/), kimgihong9@naver.com |  
