@@ -1,4 +1,4 @@
-### 💫 Front-End Engineer
+### 💫 Front-End Developer
 
 | 이름 | 김기홍 |  
 |---|:---:|  
